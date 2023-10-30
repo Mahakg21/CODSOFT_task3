@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+body{
+	padding:15px;
+}
+
+.container{
+	margin:0px auto;
+	border:5px solid black;
+	text-align:center;
+	width:350px;
+	border-radius:10px;
+	background-color:grey;	
+}
+.row{
+	padding:10px;
+}
+
+.button{
+	padding:20px;
+	margin:10px;
+	border-radius:5px;
+	font-size:20px
+}
+
+input{
+	padding:10px;
+	margin:20px;
+	height:40px;
+	width:250px;
+	border-radius:5px;
+	font-size:20px;
+}
